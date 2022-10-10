@@ -1,5 +1,6 @@
 #!/usr/bin/python
 # -*- encoding: utf-8 -*-
+# Author: Mohamed HAMNACHE
 import time
 import serial
 
