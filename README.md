@@ -9,7 +9,7 @@ The module's embedded **LoRaWAN** protocol enables seamless connectivity to any 
 
 The python script **rn2483.py** allows performing an **OTAA** activation of the end-device and sending data to the **Network Server**
 
-    python -r install requirements.tx
+    python install -r requirements.tx
     python rn2483.py
 
 ## RN2483: CMD Connection
